@@ -46,7 +46,6 @@
 
         <meta name="author" content="kmol">
 
-        <meta name="tags" content="網誌編寫">
 
 
 
@@ -59,10 +58,9 @@
 <meta property="og:url" content="./2024-cd-2b-w6.html"/>
 <meta property="og:type" content="article"/>
 <meta property="article:published_time" content="2024-03-28 14:57:00+08:00"/>
-<meta property="article:modified_time" content="2024-03-28 06:39:24.896400+08:00"/>
+<meta property="article:modified_time" content="2024-03-28 17:24:33.606920+08:00"/>
 <meta property="article:author" content="./author/kmol.html">
 <meta property="article:section" content="w6，第四組"/>
-<meta property="article:tag" content="網誌編寫"/>
 <meta property="og:image" content="./theme/images/post-bg.jpg">
 
 <!-- Twitter Card -->
@@ -74,7 +72,7 @@
   "name": "協同產品設計實習2b-6",
   "headline": "協同產品設計實習2b-6",
   "datePublished": "2024-03-28 14:57:00+08:00",
-  "dateModified": "2024-03-28 06:39:24.896400+08:00",
+  "dateModified": "2024-03-28 17:24:33.606920+08:00",
   "author": {
     "@type": "Person",
     "name": "kmol",
@@ -233,13 +231,50 @@ init_mathjax();
             <section class="post-content">
                 <p>2024 Spring 網際內容管理與協同產品設計實習課程教學導引.</p>
 
-<h1>w6</h1>
-<p>測試</p>
+<h1>w6 加入 LateX 檔案所需目錄</h1>
+<h2>使用小黑窗進行了兩次推送，把miktex-portable拉入虛擬Y槽，而後在rplit進行推送，分別推入了個人網站，再來是小組網站，讓一個團隊能夠點選就能看到LateX 檔案所需目錄的資料進行下載。</h2>
+<p>@echo off
+set Disk=y
+subst %Disk%: "data"</p>
+<p>%Disk%:</p>
+<p>set HomePath=%Disk%:\home_ipv6
+set HomeDrive=%Disk%:\home_ipv6
+set Home=%Disk%:\home_ipv6
+set USERPROFILE=%Disk%:\home_ipv6</p>
+<p>REM 將系統 Python 程式的 io 設為 utf-8
+set PYTHONIOENCODING="utf-8"</p>
+<p>set PYTHONPATH=%Disk%:\Python312\DLLs;%Disk%:\Python312\Lib;%Disk%:\Python312\Lib\site-packages;
+set PYTHONHOME=%Disk%:\Python312</p>
+<p>REM for putty
+set GIT_SSH=%Disk%:\putty\plink.exe</p>
+<p>REM 設定跟 Python 有關的命令搜尋路徑
+set path_python=%Disk%:\Python312;%Disk%:\Python312\Scripts;
+REM 設定跟Git 有關的命令搜尋路徑
+set path_git=%Disk%:\portablegit\bin;
+REM 設定 msys2 64 位元的執行路徑
+set path_msys2=%Disk%:\msys64_20210419\mingw64\bin;
+set path_lua=%Disk%:\lua-5.3.5\;
+set path_cmake=%Disk%:\cmake-3.21.0-windows-x86_64\bin;
+set path_tcc=%Disk%:\tcc;
+set path_gnuplot=%Disk%:\gnuplot\bin;
+REM for execute scite directly
+set path_scite=%Disk%:\wscite;
+set path_miktex=%Disk%:\miktex-portable\texmfs\install\miktex\bin\x64;
+REM for fasm
+set path_fasm=%Disk%:\flat_asm;</p>
+<p>REM Xcopy %Disk%:\home_ipv6\AppData\Roaming\Coppeliasim C:\users\%USERNAME%\AppData\Roaming\Coppeliasim /E /H /C /I /Y</p>
+<p>path=%Disk%:;%path_python%;%path_msys2%;%path_cmake%;%path_lua%;%path_git%;%path_tcc%;%path_gnuplot%;%path_scite%;%path_miktex%;%path_fasm%;%path%;</p>
+<p>start /MIN cmd.exe
+start /MIN cmd.exe
+start /MIN cmd.exe
+start /MIN cmd.exe</p>
+<p>start /MIN %Disk%:\wscite\SciTE.exe
+start /MIN %Disk%:\wscite\SciTE.exe</p>
+<p>REM start %Disk%:\miktex-portable\texmfs\install\miktex\bin\x64\miktex-console.exe --hide --mkmaps</p>
+<p>Exit</p>
             </section>
 
             <section class="post-info">
-                <aside class="post-tags">
-<a href="./tag/wang-zhi-bian-xie.html">網誌編寫</a>                </aside>
 
                 <div class="clear"></div>
 
