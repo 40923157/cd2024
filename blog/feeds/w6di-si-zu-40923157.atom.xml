@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923157協同產品設計實習 - w6，第四組，40923157</title><link href="./" rel="alternate"></link><link href="./feeds/w6di-si-zu-40923157.atom.xml" rel="self"></link><id>./</id><updated>2024-03-30T12:58:30+08:00</updated><entry><title>協同產品設計實習2b-6</title><link href="./40923157-2b-w6.html" rel="alternate"></link><published>2024-03-28T14:57:00+08:00</published><updated>2024-03-30T12:58:30+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./40923157-2b-w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923157協同產品設計實習 - w6，第四組，40923157</title><link href="./" rel="alternate"></link><link href="./feeds/w6di-si-zu-40923157.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T08:58:29+08:00</updated><entry><title>協同產品設計實習2b-6</title><link href="./40923157-2b-w6.html" rel="alternate"></link><published>2024-03-28T14:57:00+08:00</published><updated>2024-04-11T08:58:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./40923157-2b-w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;w6 加入 LateX 檔案所需目錄&lt;/h1&gt;
@@ -42,4 +42,4 @@ start /MIN cmd.exe&lt;/p&gt;
 &lt;p&gt;start /MIN %Disk%:\wscite\SciTE.exe
 start /MIN %Disk%:\wscite\SciTE.exe&lt;/p&gt;
 &lt;p&gt;REM start %Disk%:\miktex-portable\texmfs\install\miktex\bin\x64\miktex-console.exe --hide --mkmaps&lt;/p&gt;
-&lt;p&gt;Exit&lt;/p&gt;</content><category term="w6，第四組，40923157"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;Exit&lt;/p&gt;</content><category term="w6，第四組，40923157"></category><category term="網誌編寫 40923157"></category></entry></feed>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923157協同產品設計實習 - w2，第四組，40923157</title><link href="./" rel="alternate"></link><link href="./feeds/w2di-si-zu-40923157.atom.xml" rel="self"></link><id>./</id><updated>2024-03-30T12:58:14+08:00</updated><entry><title>協同產品設計實習2b-2</title><link href="./40923157-w2.html" rel="alternate"></link><published>2024-03-28T14:57:00+08:00</published><updated>2024-03-30T12:58:14+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./40923157-w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923157協同產品設計實習 - w2，第四組，40923157</title><link href="./" rel="alternate"></link><link href="./feeds/w2di-si-zu-40923157.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T08:57:59+08:00</updated><entry><title>協同產品設計實習2b-2</title><link href="./40923157-w2.html" rel="alternate"></link><published>2024-03-28T14:57:00+08:00</published><updated>2024-04-11T08:57:59+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./40923157-w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;第二週, 主要利用 Github Classroom 進行分組, 並且說明如何利用 Github Codespaces 維護個人與分組網站.&lt;/h1&gt;
@@ -9,4 +9,4 @@
 &lt;p&gt;根據上述規劃, 乙班第一分組的期中協同倉儲將位於: https://github.com/mdecd2024/2b-midbg1, 第一組的期中報告網站將位於: https://mdecd2024.github.io/2b-midbg1.&lt;/p&gt;
 &lt;p&gt;至於乙班第一分組的期末協同倉儲將位於: https://github.com/mdecd2024/2b2-finalbg1, 且對應的期末報告網站將位於: https://mdecd2024.github.io/2b2-finalbg1.&lt;/p&gt;
 &lt;p&gt;利用 Codespaces 維護倉儲與網站
-說明如何利用 Github Codespaces 維護網站內容&lt;/p&gt;</content><category term="w2，第四組，40923157"></category><category term="網誌編寫"></category></entry></feed>
+說明如何利用 Github Codespaces 維護網站內容&lt;/p&gt;</content><category term="w2，第四組，40923157"></category><category term="網誌編寫 40923157"></category></entry></feed>
