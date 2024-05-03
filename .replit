@@ -14,8 +14,8 @@ run = ["sh", "-c", "python3 main.py"]
 deploymentTarget = "cloudrun"
 
 [[ports]]
-localPort = 80
-externalPort = 3000
+localPort = 8081
+externalPort = 3001
 
 [[ports]]
 localPort = 8080
